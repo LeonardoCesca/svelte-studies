@@ -1,11 +1,13 @@
 <script>
-	let name = 'World'
+
 </script>
 
 <style>
-	h1 {
+	p {
 		color: purple;
+		font-family: 'Comic Sans MS';
+		font-size: 2em;
 	}
 </style>
 
-<h1>Hello {name.toUpperCase()}!</h1>
+<p>This is a paragraph.</p>
